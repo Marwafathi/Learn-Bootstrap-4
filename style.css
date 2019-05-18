@@ -1,0 +1,152 @@
+*{-webkit-box-sizing:border-box;
+  box-sizing:border-box;}
+
+ 
+
+/*start navbar1*/
+
+.nav1 {
+	    
+	   background-color: rgb(0,170,238); }
+
+.nav1 .navbar-nav .nav-item a  { color: #fff;}	   
+
+.navbar a {
+	        text-decoration: none; 
+	        font-weight: bold; font-size: 16px;}
+
+.navbar a:hover{color: #fff;}
+
+
+/*end navbar1*/
+
+/*start navbar2*/
+
+.nav2 {
+		 width: 100%;
+		-webkit-box-shadow: 0px 3px 15px rgba(50, 50, 50, .7);
+		background-color: #fff ;
+		margin-top: 40px; 
+		font-family:"Courier Regular"; position: relative; z-index: 1000;}
+		
+
+.navbar img {
+				width: 150px; 
+				height: 150px; 
+				margin-left: -40px;}
+
+.navbar span { 
+	           color: #00a1e1;  
+	          font-size: 22px; }
+
+.nav2 .navbar-nav  li {padding-left: 20px;}
+.nav2 .navbar-nav .dropdown-toggle {padding-left: 20px;}
+.nav2 .navbar-nav li a {
+						color: black; 
+						font-weight: normal; 
+						font-size: 18px; }
+
+.nav2 .navbar-nav li .ting {color: #00a1e1;}						  
+
+.nav2 .navbar-nav a {
+						color: #00a1e1; 
+						font-weight: normal; 
+						font-size: 20px;}
+
+.nav2 .navbar-nav li a:hover , .nav2 .navbar-nav a:hover {color: #00a1e1;}						
+
+/*End navbar2*/
+
+/*start carousel*/
+.carousel .carousel-inner .carousel-item img {width: 100%; height: 900px;}
+.carousel .carousel-inner .carousel-item .carousel-caption .h1  {   font-weight: bold; font-size: 50px; }
+.carousel .carousel-inner .carousel-item .carousel-caption .h1  { margin-top: -650px; margin-bottom: 20px; color: #00a1e1;}
+.carousel .carousel-inner .carousel-item .carousel-caption p {color: black;}
+.carousel .carousel-inner .carousel-item .carousel-caption input {
+																	border-top-left-radius: 20px;
+																	border-bottom-left-radius: 20px; 
+																	padding: 10px; border: none;}
+.carousel .carousel-inner .carousel-item .carousel-caption .btn { 	border-top-right-radius: 20px;
+																	border-bottom-right-radius: 20px; 
+																	padding: 9px; padding-right: 30px;}																	
+.row {
+	margin: 50px 0 0 100px; 
+	}
+
+.carousel .carousel-inner .carousel-item span {color: #757575;}
+/*end carousel*/
+/*start section*/
+
+   section {margin-top: 50px; margin-bottom: 30px;}
+   section img {width:  200px; height: 200px;  margin-bottom: 30px;}
+   section h1 {padding-bottom: 20px;}
+/*end section*/
+
+/*start photo side*/ 
+  
+  .main .side {margin-top: 50px; margin-bottom: 90px;}
+  .main .img {margin-bottom: 70px;}
+
+  
+/*end photo side*/ 
+
+
+ /*start table side*/ 
+   .title h1 {padding-top: 50px; padding-bottom: 20px;}
+   .table {
+ 
+   	margin-top: 50px;  
+   	border: 1px solid #f2f2f2;
+   	box-shadow: 6px 6px 4px  #e6e6e6;
+   	margin-bottom: 70px;
+
+   	}
+   	.exchange img {width: 20px; height: 20px;}
+
+/*start table side*/
+
+/*start channel side*/
+
+   .channel {background-color: #f4f4f4; }
+
+
+
+/*end channel side*/
+
+/*start Links side*/
+.channel .row img {width: 150px; height: 60px; margin-top: 30px; margin-left: -50px; margin-bottom: 30px;} 
+.link .ting {margin-top: 10px; padding-bottom: 20px;}
+.link .ting .col {
+					color: #757575; 
+					font-weight: normal;
+				    padding:20px 0 20px 0;
+					text-decoration: none; 
+				   }
+.link .ting .col:hover {color: #00a1e1; }
+
+/*End Links side*/
+
+/*start Footer*/
+  footer {margin-top: -30px; height: 80px; }
+  footer p {display: inline;  color: #757575; }
+  footer a {text-decoration: none; color: #757575;   }
+  footer img {display: inline ; }
+
+  /*End Footer*/
+
+/* start frame work*/
+
+   .h1 {color: #00a1e1; }
+   .lesd {line-height: 2; font-size: 18px;}
+   .exchange { background-color: #00a1e1; color: #fff;}
+   .color {background-color: #d1f0fc;}
+
+
+
+
+ /* end frame work*/
+
+
+
+
+
